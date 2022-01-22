@@ -1,3 +1,3 @@
 async function test() {
-  return true;
+  return false;
 }
